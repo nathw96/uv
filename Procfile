@@ -1,1 +1,1 @@
-worker: python3 swift.py
+web: python3 swift.py
